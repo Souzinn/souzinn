@@ -6,14 +6,14 @@
 
 <div align="center">
   <a href="https://github.com/souzasama02">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souzasama02&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzasama02&layout=compact&langs_count=7&theme=transparent"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souzasama02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzasama02&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <br> 
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souzasama02&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=souzasama02&theme=apprentice&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=10&color=F7F7F7&center=true&vCenter=true&width=1000&lines=ESTUDANDO)](https://git.io/typing-svg)
