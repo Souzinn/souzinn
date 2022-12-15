@@ -1,16 +1,12 @@
-### Hi there 👋
+<details open>
+<summary>Sobre mim</summary>
 
-<!--
-**SouzaSama02/souzasama02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victor Souza, sou estudante da área de **Desenvolvimento Web**
+Tenho como objetivo torna-me um desenvolvedor **Front-end**
+Comecei a estudar para realizar alcançar o seu objetivo no ano de 2022.
+Estou desenvolvendo meus conhecimentos em: **HTML, CSS, JS**
+Sou alimentado pela paixão em artes visuais somado com a beleza de codar.  
+Me considero "um estudante para sempre", ansioso para contribuir no desenvolvimento de diversas aplicações Webs.
+Eu acredita que a atenção plena no trabalho é a chave para o sucesso - um principio que vive atráves de seus interesses em meditação, jardinagem, desenho.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
