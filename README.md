@@ -2,30 +2,33 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+meu+nome+%C3%A9+Victor+Souza.;Tenho+17+anos.;Meu+localizo+no+Brazil.;Estudante+na+%C3%A1rea+de+Desenvolvimento+Web.;Bem+vindo+!!+(%E2%8C%90%E2%96%A0_%E2%96%A0))](https://git.io/typing-svg)
 
-<br>
+# 💫 About Me:
+No momento estou me desenvolvendo em Desenvolvimento Web<br>Sou alimentado pela paixão em artes visuais somado com a beleza de codar.  <br>Me considero "um estudante para sempre", ansioso para contribuir no desenvolvimento de diversas aplicações Webs.<br>Eu acredita que a atenção plena no trabalho é a chave para o sucesso - um principio que vive atráves de seus interesses em meditação, jardinagem, desenho.
 
-<div align="center">
-  <a href="https://github.com/souzasama02">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=souzasama02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzasama02&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-<br> 
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souzasama02&theme=apprentice&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=10&color=F7F7F7&center=true&vCenter=true&width=1000&lines=ESTUDANDO)](https://git.io/typing-svg)
-<br>
-<div style="display: inline_block">
-  <img align="center" alt="souzajs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="souzahtml" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="souzacss" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SouzaSama#1528) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/GodOffClient102) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ SouzaSama) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=10&color=F7F7F7&center=true&vCenter=true&width=1000&lines=COMMITS)](https://git.io/typing-svg)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SouzaSama02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SouzaSama02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaSama02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SouzaSama02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=SouzaSama02&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Snake animation](https://github.com/souzasama02/souzasama02/blob/output/github-contribution-grid-snake.svg)
   
