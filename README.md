@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+meu+nome+%C3%A9+Victor+Souza.;Tenho+17+anos.;Meu+localizo+no+Brazil.;Estudante+na+%C3%A1rea+de+Desenvolvimento+Web.;Bem+vindo+!!+(%E2%8C%90%E2%96%A0_%E2%96%A0))](https://git.io/typing-svg)
 
 # 💫 About Me:
-No momento estou me desenvolvendo em Desenvolvimento Web<br>Sou alimentado pela paixão em artes visuais somado com a beleza de codar.  <br>Me considero "um estudante para sempre", ansioso para contribuir no desenvolvimento de diversas aplicações Webs.<br>Eu acredita que a atenção plena no trabalho é a chave para o sucesso - um principio que vive atráves de seus interesses em meditação, jardinagem, desenho.
+Olá! Meu nome é Victor e estou estudando para me tornar um desenvolvedor web.<br>No futuro, pretendo cursar faculdade de Sistema da Informação para aprimorar ainda mais minhas habilidades e conhecimentos na área.<br>Estou animado para ver onde essa jornada me levará!
 
 
 ## 🌐 Socials:
