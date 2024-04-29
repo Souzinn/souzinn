@@ -2,24 +2,62 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+meu+nome+%C3%A9+Victor+Souza.;Tenho+17+anos.;Meu+localizo+no+Brazil.;Estudante+na+%C3%A1rea+de+Desenvolvimento+Web.;Bem+vindo+!!+(%E2%8C%90%E2%96%A0_%E2%96%A0))](https://git.io/typing-svg)
 
-# 💫 About Me:
-Olá! Meu nome é Victor e estou estudando para me tornar um desenvolvedor web.<br>No futuro, pretendo cursar faculdade de Sistema da Informação para aprimorar ainda mais minhas habilidades e conhecimentos na área.<br>Estou animado para ver onde essa jornada me levará!
+# 💫 Sobre mim:
+Olá👋! Meu nome é Victor Souza e sou um apaixonado por tecnologia👨‍💻. 
+
+Com apenas 18 anos, estou no início da minha jornada como Software Engineer. 
+
+✍ Minhas habilidades incluem JavaScript, Scrum e Git. Além disso, tenho proficiência em Inglês (B2).
+
+Nos últimos 2 anos, tenho me dedicado ao desenvolvimento de aplicações web. Trabalhei com linguagens como C, JavaScript, como também, framework como BootStrap, Vue criando experiências interativas e escaláveis. 
+
+🔰 “Quando todos avançam juntos, o sucesso ocorre por si só.” 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SouzaSama#1528)
+## 🌐 Rede Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-neves/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portifolio-pied-nu-80.vercel.app/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victorsouza350@outlook.com)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SouzaSama02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SouzaSama02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaSama02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💻 Tecnologia👨‍💻:
 
-## 🏆 GitHub Trophies
+## Marcação
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+
+## Linguagem
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Frameworks
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Cloud
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Ferramentas
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+
+# 📊 GitHub Estatisticas:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SouzaSama02&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) <br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SouzaSama02&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## 🏆 GitHub Topicos
 ![](https://github-profile-trophy.vercel.app/?username=SouzaSama02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
