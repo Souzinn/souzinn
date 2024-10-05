@@ -2,17 +2,24 @@
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+meu+nome+%C3%A9+Victor+Souza.;Tenho+17+anos.;Meu+localizo+no+Brazil.;Estudante+na+%C3%A1rea+de+Desenvolvimento+Web.;Bem+vindo+!!+(%E2%8C%90%E2%96%A0_%E2%96%A0)>)](https://git.io/typing-svg)
 
-# 💫 Sobre mim:
+💻 Sobre Mim
 
-Olá👋! Meu nome é Victor Souza e sou um apaixonado por tecnologia👨‍💻.
+Olá! Sou Victor Souza, um engenheiro de software apaixonado por tecnologia. Iniciei minha carreira aos 17 anos e, aos 19, venho me especializando no desenvolvimento de aplicações web escaláveis.
 
-Com apenas 18 anos, estou no início da minha jornada como Software Engineer.
+🛠️ Habilidades Técnicas:
 
-✍ Minhas habilidades incluem JavaScript, Scrum e Git. Além disso, tenho proficiência em Inglês (B2).
+Linguagens e Frameworks: JavaScript, Vue.js, C, Bootstrap, Tailwind
+Ferramentas: Git, VS Code, Figma, SASS
+Metodologias: Scrum
+Infraestrutura: AWS
 
-Nos últimos 2 anos, tenho me dedicado ao desenvolvimento de aplicações web. Trabalhei com linguagens como C, JavaScript, como também, framework como BootStrap, Vue criando experiências interativas e escaláveis.
+🌟 Soft Skills:
 
-🔰 “Quando todos avançam juntos, o sucesso ocorre por si só.”
+Comunicação, Trabalho em equipe, Adaptabilidade, Gestão do tempo, Autogerenciamento, Proativo
+
+🚀 Motivação:
+
+Sou movido pela criação de soluções tecnológicas inovadoras e sempre em busca de novos desafios para crescer na minha jornada como engenheiro de software.
 
 ## 🌐 Rede Sociais:
 
