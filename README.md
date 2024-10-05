@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=435&lines=Ol%C3%A1!+Eu+sou+Victor+Souza!;Eterno+discente+e+Dev...;Construtor+de+aplica%C3%A7%C3%B5es...;Interativas+e+escal%C3%A1veis+;Bem+vindo+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;ao+meu+reposit%C3%B3rio!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=720&lines=Ol%C3%A1!+Eu+sou+Victor+Souza!;Eterno+discente+e+Dev...;Construtor+de+aplica%C3%A7%C3%B5es...;Interativas+e+escal%C3%A1veis+;Bem+vindo+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;ao+meu+reposit%C3%B3rio!!!)](https://git.io/typing-svg)
 
 ## 💻 Sobre Mim
 
