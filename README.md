@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+meu+nome+%C3%A9+Victor+Souza.;Tenho+17+anos.;Meu+localizo+no+Brazil.;Estudante+na+%C3%A1rea+de+Desenvolvimento+Web.;Bem+vindo+!!+(%E2%8C%90%E2%96%A0_%E2%96%A0)>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=435&lines=Ol%C3%A1!+Eu+sou+Victor+Souza!;Eterno+discente+e+Dev...;Construtor+de+aplica%C3%A7%C3%B5es...;Interativas+e+escal%C3%A1veis+;Bem+vindo+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;ao+meu+reposit%C3%B3rio!!!)](https://git.io/typing-svg)
 
 ## 💻 Sobre Mim
 
@@ -51,7 +51,6 @@ Sou movido pela criação de soluções tecnológicas inovadoras e sempre em bus
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/souzasama02/souzasama02/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
