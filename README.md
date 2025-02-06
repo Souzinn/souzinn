@@ -35,21 +35,9 @@ Sou movido pela criação de soluções tecnológicas inovadoras e sempre em bus
 
 ## 📊 GitHub Estatisticas:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SouzaSama02)](https://git.io/streak-stats) <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) <br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SouzaSama02&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souzasama02&show_icons=true&locale=en" alt="souzasama02" /></p>
 
-## 🏆 GitHub Topicos
-
-![](https://github-profile-trophy.vercel.app/?username=SouzaSama02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=SouzaSama02&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzasama02&layout=compact)
 
 
 <div align="center">
