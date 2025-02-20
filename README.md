@@ -8,15 +8,11 @@ Olá! Sou Victor Souza, um engenheiro de software apaixonado por tecnologia. Ini
 
 ## 🛠️ Habilidades Técnicas:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,express,figma,flask,js,nodejs,postgres,py,tailwind,vite" />
+  </a>
+</p>
 
 ## 🌟Soft Skills:
 
@@ -35,15 +31,8 @@ Sou movido pela criação de soluções tecnológicas inovadoras e sempre em bus
 
 ## 📊 GitHub Estatisticas:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souzasama02&show_icons=true&locale=en" alt="souzasama02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souzinn&show_icons=true&locale=en" alt="Souzinn" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzasama02&layout=compact)
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{souzasama02}/count.svg" /></p> 
-<br>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinn&layout=compact)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
