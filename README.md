@@ -35,10 +35,16 @@ Sou movido pela criação de soluções tecnológicas inovadoras e sempre em bus
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souzinn&show_icons=true&locale=en" alt="Souzinn" /></p>
 
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinn&layout=compact)
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzinn/souzinn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souzinn/souzinn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souzinn/souzinn/output/pacman-contribution-graph.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
