@@ -23,16 +23,22 @@ Comunicação, Trabalho em equipe, Adaptabilidade, Gestão do tempo, Autogerenci
 Sou movido pela criação de soluções tecnológicas inovadoras e sempre em busca de novos desafios para crescer na minha jornada como engenheiro de software.
 
 ## 🌐 Rede Sociais:
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-neves/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://victors-organization-38.gitbook.io/dev-front)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victorsouza350@outlook.com)
 
+</div>
 
 ## 📊 GitHub Estatisticas:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souzinn&show_icons=true&locale=en" alt="Souzinn" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souzinn&show_icons=true&locale=en" alt="Souzinn" /></p>
+
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souzinn&layout=compact)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
