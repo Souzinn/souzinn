@@ -1,28 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&width=1080&lines=Ol%C3%A1!+Eu+sou+Victor+Souza!;Eterno+discente+e+Dev...;Construtor+de+aplica%C3%A7%C3%B5es...;Interativas+e+escal%C3%A1veis+;Bem+vindo+%E0%BC%BC+%E3%81%A4+%E2%97%95_%E2%97%95+%E0%BC%BD%E3%81%A4;ao+meu+reposit%C3%B3rio!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&width=1080&lines=Seja+bem+vindo+ao+meu+repo!++(%E2%8C%90%E2%96%A0_%E2%96%A0))](https://git.io/typing-svg)
 
-## 💻 Sobre Mim
+### Olá! Eu sou Victor Souza 👋 
 
-Olá! Sou Victor Souza, um engenheiro de software apaixonado por tecnologia. Iniciei minha carreira aos 17 anos e, aos 19, venho me especializando no desenvolvimento de aplicações web escaláveis.
+Sou desenvolvedor de software e Bacharelando de Engenharia de Software.
 
-## 🛠️ Habilidades Técnicas:
+Gosto de trabalhar em sistemas que exigem mais profundidade: entender fluxo de dados, identificar gargalos e lidar com complexidade real. Minha motivação vem de pegar problemas meio nebulosos e ir destrinchando até o sistema ficar previsível, performático e confiável.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,express,figma,flask,js,nodejs,postgres,py,tailwind,vite" />
-  </a>
-</p>
+Atualmente venho focando em performance, processamento assíncrono e qualidade de software (testes, observabilidade e previsibilidade em produção).
 
-## 🌟Soft Skills:
+No tempo livre, costumo explorar ideias em projetos próprios, além de cuidar das plantas, cozinhar e nadar pra limpar a cabeça.
 
-Comunicação, Trabalho em equipe, Adaptabilidade, Gestão do tempo, Autogerenciamento, Proativo
-
-## 🚀 Motivação:
-
-Sou movido pela criação de soluções tecnológicas inovadoras e sempre em busca de novos desafios para crescer na minha jornada como engenheiro de software.
-
-## 🌐 Rede Sociais:
+#### Você pode me conhecer melhor atráves:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-neves/)
@@ -31,14 +21,14 @@ Sou movido pela criação de soluções tecnológicas inovadoras e sempre em bus
 
 </div>
 
-## 📊 GitHub Estatisticas:
+#### Habilidades Técnicas:
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Souzinn&show_icons=true&locale=en" alt="Souzinn" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,js,nodejs,postgres,py,tailwind,vite,bitbucket,cypress,fastapi,gcp,nuxtjs,npm,vue" />
+  </a>
+</p>
 
-
-<br clear="both">
-<br clear="both">
-<br clear="both">
 <br clear="both">
 
 <picture>
